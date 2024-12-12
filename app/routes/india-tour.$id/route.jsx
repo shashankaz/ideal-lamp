@@ -51,7 +51,7 @@ const IndiaTourDestination = () => {
     <div className="min-h-screen">
       <div className="h-72 relative">
         <img
-          src="/common.jpg"
+          src={`/tour/${params.id}.jpg`}
           alt="Cover"
           className="h-full w-full object-cover"
         />
