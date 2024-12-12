@@ -1,0 +1,672 @@
+[
+  {
+    "id": 1,
+    "city": "Puri",
+    "slug": "puri",
+    "state": "Odisha",
+    "country": "East India",
+    "price": "5000",
+    "title": "Discover the Spiritual Charm of Puri",
+    "description": "Located on the eastern coast of India, Puri is famous for its golden beaches, the sacred Jagannath Temple, and vibrant Rath Yatra festival. Visitors can explore the historic temple complex, indulge in local Odia cuisine, and relax on the serene coastline. The Chilika Lake nearby, known for its unique biodiversity and migratory birds, adds to the allure of this coastal destination. It offers a perfect mix of spirituality, culture, and relaxation.",
+    "hotel_names": "Hotel Shubham Beach, Hotel Surya Inn",
+    "src": [
+      "/east-india/odisha/puri/puri1.jpg",
+      "/east-india/odisha/puri/puri2.jpg",
+      "/east-india/odisha/puri/puri3.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "city": "Gangtok",
+    "slug": "gangtok",
+    "state": "Sikkim",
+    "country": "East India",
+    "price": "8000",
+    "title": "Enchanting Gangtok: Gateway to the Himalayas",
+    "description": "The capital of Sikkim, Gangtok, is a picturesque hill station with breathtaking views of Mount Kanchenjunga and vibrant monasteries like Rumtek. Stroll along the bustling MG Marg, explore local handicrafts, and enjoy adventure activities like paragliding and trekking. Visit the Tsomgo Lake and Nathula Pass for stunning natural beauty and a glimpse of Indo-China border history. Gangtok is a haven for nature and adventure lovers alike.",
+    "hotel_names": "Denzong Shangrila",
+    "src": [
+      "/east-india/sikkim/gangtok/gangtok1.jpg",
+      "/east-india/sikkim/gangtok/gangtok2.jpg",
+      "/east-india/sikkim/gangtok/gangtok3.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "city": "Digha",
+    "slug": "digha",
+    "state": "West Bengal",
+    "country": "East India",
+    "price": "4000",
+    "title": "Relax and Unwind at Digha Beach",
+    "description": "A popular seaside destination in West Bengal, Digha is known for its tranquil beaches, stunning sunsets, and activities like swimming and enjoying local seafood delicacies. Stroll along the New Digha beach, visit the Marine Aquarium and Regional Centre, and experience the vibrant local culture at the bustling markets. Its proximity to Talsari Beach and the Subarnarekha River estuary adds to its charm.",
+    "hotel_names": "Hotel Dolphin",
+    "src": [
+      "/east-india/west-bengal/digha/digha1.jpg",
+      "/east-india/west-bengal/digha/digha2.jpg",
+      "/east-india/west-bengal/digha/digha3.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "city": "Darjeeling",
+    "slug": "darjeeling",
+    "state": "West Bengal",
+    "country": "East India",
+    "price": "7000",
+    "title": "Darjeeling: The Queen of the Hills",
+    "description": "Known as the 'Queen of the Hills,' Darjeeling offers spectacular views of the Himalayas, lush tea gardens, and the iconic toy train ride. Visit Tiger Hill for a stunning sunrise, tour the tea estates, and explore the rich cultural heritage of this beautiful hill town. Don't miss attractions like the Peace Pagoda, Himalayan Mountaineering Institute, and Padmaja Naidu Himalayan Zoological Park.",
+    "hotel_names": "Rhododendron Dell Exotic Resort",
+    "src": [
+      "/east-india/west-bengal/darjeeling/darjeeling1.jpg",
+      "/east-india/west-bengal/darjeeling/darjeeling2.jpg",
+      "/east-india/west-bengal/darjeeling/darjeeling3.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "city": "Siliguri",
+    "slug": "siliguri",
+    "state": "West Bengal",
+    "country": "East India",
+    "price": "6000",
+    "title": "Siliguri: Gateway to Northeast India",
+    "description": "Often called the Gateway to Northeast India, Siliguri offers scenic beauty, vibrant shopping hubs like Hong Kong Market, and proximity to wildlife attractions such as Mahananda Wildlife Sanctuary. Take a ride on the toy train or explore nearby hill stations from this bustling town. Visit ISKCON Temple, Science City, and Coronation Bridge to experience the diverse offerings of Siliguri.",
+    "hotel_names": "Hotel Apollo",
+    "src": [
+      "/east-india/west-bengal/siliguri/siliguri1.jpg",
+      "/east-india/west-bengal/siliguri/siliguri2.jpg",
+      "/east-india/west-bengal/siliguri/siliguri3.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "city": "Silvassa",
+    "slug": "silvassa",
+    "state": "Dadra and Nagar Haveli",
+    "country": "West India",
+    "price": "550",
+    "title": "Explore the Serenity of Silvassa",
+    "description": "A serene getaway in Dadra and Nagar Haveli, Silvassa is known for its lush greenery, tribal culture, and Portuguese heritage. Visitors can unwind by the Vanganga Lake, explore the Lion Safari Park, and learn about the region's vibrant traditions and crafts. The surrounding forested areas provide a tranquil escape, perfect for nature lovers seeking a peaceful retreat.",
+    "hotel_names": "Dadra Resort",
+    "src": [
+      "/west-india/dadra/silvassa/silvassa1.jpg",
+      "/west-india/dadra/silvassa/silvassa2.jpg",
+      "/west-india/dadra/silvassa/silvassa3.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "city": "Goa",
+    "slug": "goa",
+    "state": "Goa",
+    "country": "West India",
+    "price": "9000",
+    "title": "Experience the Vibrant Spirit of Goa",
+    "description": "India's beach paradise, Goa is renowned for its golden sands, vibrant nightlife, and thrilling water sports. Discover Portuguese heritage through its churches and forts, indulge in fresh seafood, and enjoy the vibrant beach culture. Don't miss the spice plantations, vibrant flea markets, and river cruises that offer unique glimpses into Goan life.",
+    "hotel_names": "Candolim Coast",
+    "src": [
+      "/west-india/goa/goa/goa1.jpg",
+      "/west-india/goa/goa/goa2.jpg",
+      "/west-india/goa/goa/goa3.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "city": "Shirdi",
+    "slug": "shirdi",
+    "state": "Maharashtra",
+    "country": "West India",
+    "price": "6000",
+    "title": "Discover Divine Bliss at Shirdi",
+    "description": "A revered pilgrimage site in Maharashtra, Shirdi is the home of Sai Baba. Visitors flock to the sacred temple to seek blessings, experience spiritual peace, and explore nearby attractions like Shani Shingnapur and Dwarkamai Mosque. The serene surroundings and faith-filled atmosphere make Shirdi a must-visit for spiritual seekers.",
+    "hotel_names": "Hotel Sai Mahal",
+    "src": [
+      "/west-india/maharashtra/shirdi/shirdi1.jpg",
+      "/west-india/maharashtra/shirdi/shirdi2.jpg",
+      "/west-india/maharashtra/shirdi/shirdi3.jpg"
+    ]
+  },
+  {
+    "id": 9,
+    "city": "Panchgani",
+    "slug": "panchgani",
+    "state": "Maharashtra",
+    "country": "West India",
+    "price": "650",
+    "title": "The Scenic Beauty of Panchgani",
+    "description": "A charming hill station in Maharashtra, Panchgani is famous for its lush valleys, strawberry farms, and scenic viewpoints like Table Land. Explore historic caves, enjoy horse rides, and revel in the serene mountain air. Panchgani is also a hub for paragliding and offers adventure seekers a chance to soar over its breathtaking landscapes.",
+    "hotel_names": "Silver Leaf",
+    "src": [
+      "/west-india/maharashtra/panchgani/panchgani1.jpg",
+      "/west-india/maharashtra/panchgani/panchgani2.jpg",
+      "/west-india/maharashtra/panchgani/panchgani3.jpg"
+    ]
+  },
+  {
+    "id": 10,
+    "city": "Mahabaleshwar",
+    "slug": "mahabaleshwar",
+    "state": "Maharashtra",
+    "country": "West India",
+    "price": "7000",
+    "title": "Mahabaleshwar: Nature's Delight",
+    "description": "A picturesque hill station in Maharashtra, Mahabaleshwar is known for its misty hills, strawberry farms, and scenic points like Arthur's Seat and Wilson Point. Enjoy boating on Venna Lake, trek through lush trails, and savor fresh strawberries and cream. The nearby Pratapgad Fort and Mapro Gardens add historical and culinary richness to your visit.",
+    "hotel_names": "Hotel Regal",
+    "src": [
+      "/west-india/maharashtra/mahabaleshwar/mahabaleshwar1.jpg",
+      "/west-india/maharashtra/mahabaleshwar/mahabaleshwar2.jpg",
+      "/west-india/maharashtra/mahabaleshwar/mahabaleshwar3.jpg"
+    ]
+  },
+  {
+    "id": 11,
+    "city": "Alibaug",
+    "slug": "alibaug",
+    "state": "Maharashtra",
+    "country": "West India",
+    "price": "8000",
+    "title": "Alibaug: Coastal Paradise",
+    "description": "A coastal gem in Maharashtra, Alibaug is renowned for its pristine beaches, historic forts like Kolaba Fort, and lush coconut groves. Perfect for a quick getaway, it offers tranquil sunsets, water sports, and delicious seafood. Explore charming villages, visit temples, and enjoy serene boat rides for a memorable experience.",
+    "hotel_names": "Elysium Spa & Resort",
+    "src": [
+      "/west-india/maharashtra/alibaug/alibaug1.jpg",
+      "/west-india/maharashtra/alibaug/alibaug2.jpg",
+      "/west-india/maharashtra/alibaug/alibaug3.jpg"
+    ]
+  },
+  {
+    "id": 12,
+    "city": "Shimla",
+    "slug": "shimla",
+    "state": "Himachal Pradesh",
+    "country": "North India",
+    "price": "9000",
+    "title": "Shimla: The Queen of Hills",
+    "description": "The capital of Himachal Pradesh, Shimla is a charming hill station known for its colonial architecture, snow-capped peaks, and vibrant Mall Road. Surrounded by lush forests, it's perfect for scenic walks, adventure activities, and a serene mountain escape. Visit Kufri, Jakhoo Temple, and indulge in local cuisines for a delightful experience.",
+    "hotel_names": "Chaman Palace, Surya",
+    "src": [
+      "/north-india/himachal/shimla/shimla1.jpg",
+      "/north-india/himachal/shimla/shimla2.jpg",
+      "/north-india/himachal/shimla/shimla3.jpg"
+    ]
+  },
+  {
+    "id": 13,
+    "city": "Manali",
+    "slug": "manali",
+    "state": "Himachal Pradesh",
+    "country": "North India",
+    "price": "10000",
+    "title": "Manali: An Adventurer's Paradise",
+    "description": "A popular hill station in Himachal Pradesh, Manali is known for its stunning landscapes, lush valleys, and adventure sports. Surrounded by snow-capped mountains and serene rivers, it offers activities like trekking, paragliding, and exploring Old Manali's vibrant cafes and shops. Don't miss the Solang Valley and Rohtang Pass.",
+    "hotel_names": "Hotel Mountain Top",
+    "src": [
+      "/north-india/himachal/manali/manali1.jpg",
+      "/north-india/himachal/manali/manali2.jpg",
+      "/north-india/himachal/manali/manali3.jpg"
+    ]
+  },
+  {
+    "id": 14,
+    "city": "Kufri",
+    "slug": "kufri",
+    "state": "Himachal Pradesh",
+    "country": "North India",
+    "price": "7000",
+    "title": "Kufri: Snow Adventures Await",
+    "description": "A small yet picturesque hill station near Shimla, Kufri is famous for its snow activities, including skiing and tobogganing in the winter. Surrounded by lush forests and offering stunning mountain views, it's a popular spot for outdoor adventures and scenic relaxation. Don't miss Mahasu Peak and the Kufri Fun World.",
+    "hotel_names": "Galleu Hill Resorts",
+    "src": [
+      "/north-india/himachal/kufri/kufri1.jpg",
+      "/north-india/himachal/kufri/kufri2.jpg",
+      "/north-india/himachal/kufri/kufri3.jpg"
+    ]
+  },
+  {
+    "id": 15,
+    "city": "Dalhousie",
+    "slug": "dalhousie",
+    "state": "Himachal Pradesh",
+    "country": "North India",
+    "price": "850",
+    "title": "Dalhousie: A Colonial Charm",
+    "description": "A charming hill station in Himachal Pradesh, Dalhousie is known for its colonial-era architecture, pine forests, and peaceful vibe. With beautiful viewpoints like Khajjiar, often called the 'Mini Switzerland of India,' it's a perfect destination for nature lovers and those seeking tranquility. Stroll through Panchpula and Satdhara Falls.",
+    "hotel_names": "Valley View",
+    "src": [
+      "/north-india/himachal/dalhousie/dalhousie1.jpg",
+      "/north-india/himachal/dalhousie/dalhousie2.jpg",
+      "/north-india/himachal/dalhousie/dalhousie3.jpg"
+    ]
+  },
+  {
+    "id": 16,
+    "city": "Srinagar",
+    "slug": "srinagar",
+    "state": "Jammu & Kashmir",
+    "country": "North India",
+    "price": "12000",
+    "title": "Srinagar: Paradise on Earth",
+    "description": "The summer capital of Jammu and Kashmir, Srinagar is famous for its breathtaking landscapes, pristine Dal Lake with traditional houseboats, and beautiful Mughal gardens like Shalimar and Nishat. Surrounded by snow-capped mountains, it's a paradise for nature lovers. Shop at floating markets and enjoy the local Kashmiri cuisine.",
+    "hotel_names": "Shafaf Plaza, Kashmir Residency",
+    "src": [
+      "/north-india/jk/srinagar/srinagar1.jpg",
+      "/north-india/jk/srinagar/srinagar2.jpg",
+      "/north-india/jk/srinagar/srinagar3.jpg"
+    ]
+  },
+  {
+    "id": 17,
+    "city": "Chail",
+    "slug": "chail",
+    "state": "Himachal Pradesh",
+    "country": "North India",
+    "price": "750",
+    "title": "Chail: Tranquil Hills",
+    "description": "A serene hill station near Shimla, Chail is known for its lush pine and deodar forests, the historic Chail Palace, and the world's highest cricket ground. Offering breathtaking views and a peaceful atmosphere, it's ideal for nature walks, sightseeing, and escaping the hustle and bustle. Trek through scenic trails and immerse in its natural beauty.",
+    "hotel_names": "Rashi Resort",
+    "src": [
+      "/north-india/himachal/chail/chail1.jpg",
+      "/north-india/himachal/chail/chail2.jpg"
+    ]
+  },
+  {
+    "id": 18,
+    "city": "Vaishno Devi",
+    "slug": "vaishno-devi",
+    "state": "Jammu & Kashmir",
+    "country": "North India",
+    "price": "850",
+    "title": "Vaishno Devi: A Spiritual Ascent",
+    "description": "A revered Hindu pilgrimage site in Jammu and Kashmir, Vaishno Devi is known for the sacred Vaishno Devi Temple, nestled in the Trikuta Mountains. Devotees undertake a spiritually enriching trek to seek blessings from the goddess, surrounded by scenic views and a serene atmosphere. The journey offers breathtaking landscapes and a profound sense of tranquility.",
+    "hotel_names": "Hotel Trikuta",
+    "src": [
+      "/north-india/jk/vaishno-devi/vaishno-devi1.jpg",
+      "/north-india/jk/vaishno-devi/vaishno-devi2.jpg",
+      "/north-india/jk/vaishno-devi/vaishno-devi3.jpg"
+    ]
+  },
+  {
+    "id": 19,
+    "city": "Amritsar",
+    "slug": "amritsar",
+    "state": "Punjab",
+    "country": "North India",
+    "price": "9000",
+    "title": "Amritsar: A Historical Gem",
+    "description": "A historic city in Punjab, Amritsar is best known for the Golden Temple, the holiest shrine of Sikhism, which exudes peace and spirituality. The city is also famous for its rich history, the Jallianwala Bagh memorial, and its vibrant Punjabi culture, complete with delicious local cuisine and traditional markets. Don't miss the Wagah Border ceremony and a walk through the old city.",
+    "hotel_names": "Hotel Grand Hridey",
+    "src": [
+      "/north-india/punjab/amritsar/amritsar1.jpg",
+      "/north-india/punjab/amritsar/amritsar2.jpg",
+      "/north-india/punjab/amritsar/amritsar3.jpg"
+    ]
+  },
+
+  {
+    "id": 19,
+    "city": "Udaipur",
+    "slug": "udaipur",
+    "state": "Rajasthan",
+    "country": "North India",
+    "price": "10000",
+    "title": "Udaipur: The City of Lakes",
+    "description": "Known as the 'City of Lakes,' Udaipur in Rajasthan is a captivating blend of history, culture, and romance. It is famed for its stunning lakes like Lake Pichola and Fateh Sagar, as well as grand palaces such as the iconic City Palace and Jag Mandir. Visitors can enjoy serene boat rides, explore vibrant markets, and marvel at the intricate Rajasthani architecture. The nearby Sajjangarh Monsoon Palace offers breathtaking views, while traditional folk performances showcase the region's rich heritage.",
+    "hotel_names": "The Royal Inn",
+    "src": [
+      "/north-india/rajasthan/udaipur/udaipur1.jpg",
+      "/north-india/rajasthan/udaipur/udaipur2.jpg",
+      "/north-india/rajasthan/udaipur/udaipur3.jpg"
+    ]
+  },
+  {
+    "id": 20,
+    "city": "Jaipur",
+    "slug": "jaipur",
+    "state": "Rajasthan",
+    "country": "North India",
+    "price": "950",
+    "title": "Jaipur: The Pink City",
+    "description": "Jaipur, the capital city of Rajasthan, is a treasure trove of heritage and culture. Known as the 'Pink City,' it boasts architectural marvels like Amer Fort, Hawa Mahal, and the majestic City Palace. Visitors can explore vibrant bazaars selling traditional handicrafts and textiles, savor delicious Rajasthani cuisine, and immerse themselves in the city's royal charm. Jaipur also offers unique experiences like elephant rides, cultural performances, and visits to the Jantar Mantar observatory, a UNESCO World Heritage site.",
+    "hotel_names": "Hotel Palms",
+    "src": [
+      "/north-india/rajasthan/jaipur/jaipur1.jpg",
+      "/north-india/rajasthan/jaipur/jaipur2.jpg",
+      "/north-india/rajasthan/jaipur/jaipur3.jpg"
+    ]
+  },
+  {
+    "id": 21,
+    "city": "Corbett",
+    "slug": "corbett",
+    "state": "Uttarakhand",
+    "country": "North India",
+    "price": "8000",
+    "title": "Corbett: Into the Wild",
+    "description": "India's oldest national park, Corbett, is a haven for wildlife enthusiasts. Nestled in Uttarakhand, it is renowned for its diverse flora and fauna, including the majestic Bengal tiger. Visitors can embark on thrilling jeep safaris, nature walks, and bird-watching tours. The park's picturesque landscapes, featuring dense forests, rivers, and grasslands, offer a tranquil escape for nature lovers. Nearby attractions like Garjia Temple and Corbett Museum add cultural and historical depth to the experience.",
+    "hotel_names": "Corbett Tiger Den Resort, Vanya Resort",
+    "src": [
+      "/north-india/uttarakhand/corbett/corbett1.jpeg",
+      "/north-india/uttarakhand/corbett/corbett2.jpg",
+      "/north-india/uttarakhand/corbett/corbett3.jpg"
+    ]
+  },
+  {
+    "id": 22,
+    "city": "Haridwar",
+    "slug": "haridwar",
+    "state": "Uttarakhand",
+    "country": "North India",
+    "price": "750",
+    "title": "Haridwar: Gateway to the Gods",
+    "description": "A sacred city in Uttarakhand, Haridwar is one of India's holiest pilgrimage destinations. It is famed for the Ganges River, the Kumbh Mela, and the mesmerizing Ganga Aarti at Har Ki Pauri. Pilgrims and travelers alike can explore ancient temples, ashrams, and bustling markets. The serene ghats offer a tranquil setting for spiritual reflection, while nearby destinations like Rishikesh and Rajaji National Park add adventure and natural beauty to the journey.",
+    "hotel_names": "Hotel Khanna Palace",
+    "src": [
+      "/north-india/uttarakhand/haridwar/haridwar1.jpg",
+      "/north-india/uttarakhand/haridwar/haridwar2.jpg",
+      "/north-india/uttarakhand/haridwar/haridwar3.jpg"
+    ]
+  },
+  {
+    "id": 23,
+    "city": "Kausani",
+    "slug": "kausani",
+    "state": "Uttarakhand",
+    "country": "North India",
+    "price": "7000",
+    "title": "Kausani: Himalayan Serenity",
+    "description": "A tranquil hill station in Uttarakhand, Kausani is celebrated for its panoramic views of the majestic Himalayan peaks, including Nanda Devi and Trishul. Known as the 'Switzerland of India,' it offers lush landscapes, serene trails, and breathtaking sunrises. Visitors can explore the Anasakti Ashram, tea gardens, and local villages for an authentic cultural experience. The peaceful environment and stunning vistas make it a perfect retreat for nature lovers and solitude seekers.",
+    "hotel_names": "Sunita Himalayan Paradise",
+    "src": [
+      "/north-india/uttarakhand/kausani/kausani1.jpg",
+      "/north-india/uttarakhand/kausani/kausani2.jpg"
+    ]
+  },
+  {
+    "id": 24,
+    "city": "Mussoorie",
+    "slug": "mussoorie",
+    "state": "Uttarakhand",
+    "country": "North India",
+    "price": "850",
+    "title": "Mussoorie: The Queen of Hills",
+    "description": "A popular hill station in Uttarakhand, Mussoorie is known for its cool climate, lush greenery, and stunning views of the Himalayas. Key attractions include Camel's Back Road, Kempty Falls, and Lal Tibba, making it a perfect destination for nature lovers and sightseers. The vibrant Mall Road offers shopping and dining options, while nearby Landour provides a tranquil escape amidst pine-covered hills.",
+    "hotel_names": "Hotel Shiva Continental",
+    "src": [
+      "/north-india/uttarakhand/mussooire/mussooire1.jpg",
+      "/north-india/uttarakhand/mussooire/mussooire2.jpg",
+      "/north-india/uttarakhand/mussooire/mussooire3.jpg"
+    ]
+  },
+  {
+    "id": 25,
+    "city": "Rishikesh",
+    "slug": "rishikesh",
+    "state": "Uttarakhand",
+    "country": "North India",
+    "price": "8000",
+    "title": "Rishikesh: Yoga Capital of the World",
+    "description": "A spiritual and adventure hub in Uttarakhand, Rishikesh is renowned for its yoga and meditation centers, the sacred Ganges River, and thrilling activities like white-water rafting and bungee jumping. Known as the 'Yoga Capital of the World,' it attracts seekers and adventurers alike. Key attractions include the iconic Laxman Jhula and Ram Jhula bridges, ashrams like Parmarth Niketan, and vibrant Ganga Aarti ceremonies.",
+    "hotel_names": "Hotel Nirvana Palace",
+    "src": [
+      "/north-india/uttarakhand/rishikesh/rishikesh1.jpg",
+      "/north-india/uttarakhand/rishikesh/rishikesh2.jpg",
+      "/north-india/uttarakhand/rishikesh/rishikesh3.jpg"
+    ]
+  },
+  {
+    "id": 26,
+    "city": "Agra",
+    "slug": "agra",
+    "state": "Uttar Pradesh",
+    "country": "North India",
+    "price": "9000",
+    "title": "Agra: Home of the Taj Mahal",
+    "description": "A historic city in Uttar Pradesh, Agra is world-famous for the Taj Mahal, an architectural masterpiece and symbol of love. Other significant attractions include the Agra Fort, a UNESCO World Heritage site, and Fatehpur Sikri, an abandoned Mughal city with fascinating monuments. Visitors can also enjoy shopping for exquisite marble inlay work, leather goods, and local sweets like petha.",
+    "hotel_names": "Hotel Taj Inn",
+    "src": [
+      "/north-india/uttar-pradesh/agra/agra1.jpg",
+      "/north-india/uttar-pradesh/agra/agra2.jpg",
+      "/north-india/uttar-pradesh/agra/agra3.jpg"
+    ]
+  },
+  {
+    "id": 27,
+    "city": "Tirupati",
+    "slug": "tirupati",
+    "state": "Andhra Pradesh",
+    "country": "South India",
+    "price": "750",
+    "title": "Tirupati: A Divine Pilgrimage",
+    "description": "Located in Andhra Pradesh, Tirupati is a prominent Hindu pilgrimage destination, famous for the sacred Tirumala Venkateswara Temple. Nestled in the Tirumala Hills, the city attracts millions of devotees seeking blessings. Visitors can explore other landmarks such as the Kapila Theertham waterfalls, ISKCON temple, and Chandragiri Fort. The city's vibrant festivals and serene environment enhance its spiritual charm.",
+    "hotel_names": "Hotel 7 Hills Inn",
+    "src": [
+      "/south-india/andhra-pradesh/tirupati/tirupati1.jpg",
+      "/south-india/andhra-pradesh/tirupati/tirupati2.jpg",
+      "/south-india/andhra-pradesh/tirupati/tirupati3.jpg"
+    ]
+  },
+  {
+    "id": 28,
+    "city": "Munnar",
+    "slug": "munnar",
+    "state": "Kerala",
+    "country": "South India",
+    "price": "950",
+    "title": "Munnar: Tea Gardens and Misty Hills",
+    "description": "A picturesque hill station in Kerala, Munnar is renowned for its rolling tea plantations, misty hills, and diverse wildlife. Key attractions include the Eravikulam National Park, home to the Nilgiri Tahr, and the scenic Mattupetty Dam. Visitors can also enjoy trekking, boating, and exploring spice gardens. The tranquil atmosphere and breathtaking landscapes make it a perfect retreat for nature lovers.",
+    "hotel_names": "Hotel Spice Jungle",
+    "src": [
+      "/south-india/kerala/munnar/munnar1.jpg",
+      "/south-india/kerala/munnar/munnar2.jpg",
+      "/south-india/kerala/munnar/munnar3.jpg"
+    ]
+  },
+  {
+    "id": 29,
+    "city": "Trivandrum",
+    "slug": "trivandrum",
+    "state": "Kerala",
+    "country": "South India",
+    "price": "850",
+    "title": "Trivandrum: Gateway to Kerala",
+    "description": "The capital city of Kerala, Trivandrum (Thiruvananthapuram) is a blend of heritage, culture, and modernity. Famous attractions include the Padmanabhaswamy Temple, a marvel of Dravidian architecture, and the Napier Museum. Visitors can explore pristine beaches like Kovalam and Varkala, enjoy local seafood, and immerse themselves in the cultural richness of Kerala's festivals and traditions.",
+    "hotel_names": "The Seven Hills",
+    "src": [
+      "/south-india/kerala/tirvandrum/tirvandrum1.jpg",
+      "/south-india/kerala/tirvandrum/tirvandrum2.jpg",
+      "/south-india/kerala/tirvandrum/tirvandrum3.jpg"
+    ]
+  },
+  {
+    "id": 30,
+    "city": "Ooty",
+    "slug": "ooty",
+    "state": "Tamil Nadu",
+    "country": "South India",
+    "price": "9000",
+    "title": "Ooty: The Queen of Hill Stations",
+    "description": "A charming hill station in Tamil Nadu, Ooty (Udhagamandalam) is known for its lush green valleys, colonial architecture, and pleasant climate. Key attractions include the Ooty Botanical Gardens, Doddabetta Peak, and the picturesque Ooty Lake. Visitors can enjoy a ride on the Nilgiri Mountain Railway, a UNESCO World Heritage site, and explore nearby tea estates and waterfalls.",
+    "hotel_names": "Hotel Khems",
+    "src": [
+      "/south-india/tamil-nadu/ooty/ooty1.jpg",
+      "/south-india/tamil-nadu/ooty/ooty2.jpg",
+      "/south-india/tamil-nadu/ooty/ooty3.jpg"
+    ]
+  },
+  {
+    "id": 31,
+    "city": "Kodaikanal",
+    "slug": "kodaikanal",
+    "state": "Tamil Nadu",
+    "country": "South India",
+    "price": "850",
+    "title": "Kodaikanal: The Princess of Hill Stations",
+    "description": "Kodaikanal, nestled in Tamil Nadu, is a serene hill station famed for its rolling hills, crystal-clear lakes, and dense forests. Key attractions include the Kodaikanal Lake, Bryant Park, and the Pillar Rocks. Visitors can enjoy trekking, cycling, and exploring the Coaker's Walk for panoramic views. The cool climate and tranquil surroundings make it a favorite retreat.",
+    "hotel_names": "JC Residency",
+    "src": [
+      "/south-india/tamil-nadu/kodaikanal/kodaikanal1.jpg",
+      "/south-india/tamil-nadu/kodaikanal/kodaikanal2.jpg",
+      "/south-india/tamil-nadu/kodaikanal/kodaikanal3.jpg"
+    ]
+  },
+  {
+    "id": 32,
+    "city": "Kanyakumari",
+    "slug": "kanyakumari",
+    "state": "Tamil Nadu",
+    "country": "South India",
+    "price": "8000",
+    "title": "Kanyakumari: The Southern Tip of India",
+    "description": "Located at the southernmost tip of India, Kanyakumari is renowned for its breathtaking sunrise and sunset views over the confluence of the Arabian Sea, Bay of Bengal, and Indian Ocean. Key attractions include the Vivekananda Rock Memorial, Thiruvalluvar Statue, and the pristine Kanyakumari Beach. The city's spiritual and scenic beauty makes it a unique travel destination.",
+    "hotel_names": "The Seashore Hotel",
+    "src": [
+      "/south-india/tamil-nadu/kanyakumari/kanyakumari1.jpg",
+      "/south-india/tamil-nadu/kanyakumari/kanyakumari2.jpg",
+      "/south-india/tamil-nadu/kanyakumari/kanyakumari3.jpg"
+    ]
+  },
+  {
+    "id": 33,
+    "city": "Thekkady",
+    "slug": "thekkady",
+    "state": "Kerala",
+    "country": "South India",
+    "price": "850",
+    "title": "Thekkady: Wildlife and Spice Trails",
+    "description": "A lush destination in Kerala, Thekkady is famous for the Periyar Wildlife Sanctuary, where visitors can enjoy boat rides and spot elephants, tigers, and exotic birds. Surrounded by spice plantations, it offers a perfect blend of nature and culture. Visitors can explore trekking trails, bamboo rafting, and learn about traditional spice farming practices.",
+    "hotel_names": "Blooming Paradise",
+    "src": [
+      "/south-india/kerala/thekkady/thekkady1.jpg",
+      "/south-india/kerala/thekkady/thekkady2.jpg",
+      "/south-india/kerala/thekkady/thekkady3.jpg"
+    ]
+  },
+  {
+    "id": 34,
+    "city": "Bangkok",
+    "slug": "bangkok",
+    "state": "Thailand",
+    "country": "International",
+    "price": "12000",
+    "title": "Bangkok: Vibrant City of Angels",
+    "description": "Bangkok, the capital of Thailand, is a bustling metropolis known for its vibrant street life, ornate temples, and rich cultural heritage. Highlights include the Grand Palace, Wat Arun, and Wat Phra Kaew. Visitors can shop at Chatuchak Market, explore floating markets, and indulge in world-renowned Thai cuisine. The city's blend of tradition and modernity makes it a must-visit destination.",
+    "hotel_names": "Baiyoke Suite Hotel",
+    "src": [
+      "/international/thailand/bangkok/bangkok1.jpg",
+      "/international/thailand/bangkok/bangkok2.jpg",
+      "/international/thailand/bangkok/bangkok3.jpg"
+    ]
+  },
+  {
+    "id": 35,
+    "city": "Pattaya",
+    "slug": "pattaya",
+    "state": "Thailand",
+    "country": "International",
+    "price": "11000",
+    "title": "Pattaya: A Tropical Paradise",
+    "description": "Pattaya, located on Thailand's eastern Gulf coast, is renowned for its beaches, vibrant nightlife, and water sports. Key attractions include the Sanctuary of Truth, Pattaya Floating Market, and Nong Nooch Tropical Garden. Visitors can enjoy island-hopping, diving, and relaxing at Jomtien Beach. The city's lively atmosphere and serene spots make it an ideal getaway.",
+    "hotel_names": "Four Season Places, Sunshine Vista Hotel",
+    "src": [
+      "/international/thailand/pattaya/pattaya1.jpg",
+      "/international/thailand/pattaya/pattaya2.jpg"
+    ]
+  },
+  {
+    "id": 36,
+    "city": "Kuala Lumpur",
+    "slug": "kuala-lumpur",
+    "state": "Malaysia",
+    "country": "International",
+    "price": "1250",
+    "title": "Kuala Lumpur: Cultural Melting Pot",
+    "description": "The capital of Malaysia, Kuala Lumpur is a modern city known for its iconic Petronas Twin Towers, bustling markets, and vibrant food scene. Visitors can explore Batu Caves, Chinatown, and Merdeka Square. The city's diverse cultural influences are reflected in its architecture, cuisine, and festivals, making it a dynamic travel destination.",
+    "hotel_names": "Radius International Hotel, Cititel Express Hotel",
+    "src": [
+      "/international/malaysia/kuala-lumpur/kuala-lumpur1.jpg",
+      "/international/malaysia/kuala-lumpur/kuala-lumpur2.jpg",
+      "/international/malaysia/kuala-lumpur/kuala-lumpur3.jpg"
+    ]
+  },
+  {
+    "id": 37,
+    "city": "Langkawi",
+    "slug": "langkawi",
+    "state": "Malaysia",
+    "country": "International",
+    "price": "13000",
+    "title": "Langkawi: Jewel of Kedah",
+    "description": "Langkawi, an archipelago of 99 islands in Malaysia, is known for its pristine beaches, turquoise waters, and lush rainforests. Key attractions include Langkawi Sky Bridge, Pantai Cenang, and the Langkawi Wildlife Park. Visitors can enjoy snorkeling, cable car rides, and exploring mangroves. The island's natural beauty and serene ambiance make it a top destination.",
+    "hotel_names": "Grand Continental, Bayview Hotel",
+    "src": [
+      "/international/malaysia/langkawi/langkawi1.jpg",
+      "/international/malaysia/langkawi/langkawi2.jpg",
+      "/international/malaysia/langkawi/langkawi3.jpg"
+    ]
+  },
+  {
+    "id": 38,
+    "city": "Kathmandu",
+    "slug": "kathmandu",
+    "state": "Nepal",
+    "country": "International",
+    "price": "1150",
+    "title": "Kathmandu: Gateway to the Himalayas",
+    "description": "Kathmandu, the capital of Nepal, is a vibrant city steeped in history and culture. Known for its ancient temples and bustling streets, visitors can explore UNESCO World Heritage Sites like Swayambhunath Stupa, Pashupatinath Temple, and Durbar Square. The city's rich heritage, vibrant markets, and stunning Himalayan backdrop make it a unique travel destination.",
+    "hotel_names": "Prince Hotel",
+    "src": [
+      "/international/nepal/katamandu/katamandu1.jpg",
+      "/international/nepal/katamandu/katamandu2.jpg",
+      "/international/nepal/katamandu/katamandu3.jpg"
+    ]
+  },
+  {
+    "id": 39,
+    "city": "Jakarta",
+    "slug": "jakarta",
+    "state": "Indonesia",
+    "country": "International",
+    "price": "12000",
+    "title": "Jakarta: Indonesia's Bustling Capital",
+    "description": "Jakarta, the capital of Indonesia, is a dynamic city blending modernity with tradition. Key attractions include the National Monument (Monas), Istiqlal Mosque, and the vibrant Ancol Dreamland. Visitors can explore its diverse culinary scene, bustling markets, and historic neighborhoods like Kota Tua. Jakarta's energy and cultural diversity make it a must-visit destination.",
+    "hotel_names": "Batavia Hotel",
+    "src": [
+      "/international/indonesia/jakarta/jakarta1.jpg",
+      "/international/indonesia/jakarta/jakarta2.jpg",
+      "/international/indonesia/jakarta/jakarta3.jpg"
+    ]
+  },
+  {
+    "id": 40,
+    "city": "Tokyo",
+    "slug": "tokyo",
+    "state": "Japan",
+    "country": "International",
+    "price": "15000",
+    "title": "Tokyo: A City of Contrasts",
+    "description": "Tokyo, the capital of Japan, is a sprawling metropolis where traditional culture meets futuristic innovation. Highlights include the historic Meiji Shrine, bustling Shibuya Crossing, and the iconic Tokyo Tower. Visitors can explore Akihabara for tech and anime, dine on world-class sushi, and experience traditional tea ceremonies. Tokyo's dynamic energy and cultural richness make it a global favorite.",
+    "hotel_names": "Veititel Express Hotel",
+    "src": [
+      "/international/japan/tokyo/tokyo1.jpg",
+      "/international/japan/tokyo/tokyo2.jpg",
+      "/international/japan/tokyo/tokyo3.jpg"
+    ]
+  },
+  {
+    "id": 41,
+    "city": "Dubai",
+    "slug": "dubai",
+    "state": "United Arab Emirates",
+    "country": "International",
+    "price": "16000",
+    "title": "Dubai: A Modern Marvel",
+    "description": "Dubai, located in the United Arab Emirates, is a city of superlatives, known for its luxury shopping, ultramodern architecture, and lively nightlife. Key attractions include the Burj Khalifa, Palm Jumeirah, and Dubai Mall. Visitors can enjoy desert safaris, dine in world-class restaurants, and experience the blend of tradition and innovation that defines Dubai.",
+    "hotel_names": "TIME Grand Plaza Hotel",
+    "src": [
+      "/international/dubai/dubai/dubai1.jpg",
+      "/international/dubai/dubai/dubai2.jpg",
+      "/international/dubai/dubai/dubai3.jpg"
+    ]
+  }
+]
